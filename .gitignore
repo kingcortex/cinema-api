@@ -1,0 +1,27 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+
+
+
+
+# Go modules
+go.sum
+
+# # IDE files
+# .idea/
+# .vscode/
+# *.swp
+
+# Logs
+
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+tmp/
+temp/
+
+
